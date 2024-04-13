@@ -1,0 +1,32 @@
+
+.card {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(233, 154, 74);;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+    
+}
+
+.text {
+    font-size: 20px;
+}
+
+.cardList {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 16px;
+}
